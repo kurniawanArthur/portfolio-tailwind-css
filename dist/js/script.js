@@ -86,7 +86,7 @@ const backToTop = document.getElementById("backToTop")
 const cloudShortcut = document.getElementById("cloud-shortcut")
 const moonShortcut = document.createElement("img")
 moonShortcut.setAttribute("src", "dist/img/header/bulan.png")
-moonShortcut.setAttribute("class", "h-5/6")
+moonShortcut.setAttribute("class", "h-4/6")
 
 
 // Dark Mode
