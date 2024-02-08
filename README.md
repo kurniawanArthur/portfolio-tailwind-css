@@ -1,4 +1,4 @@
-# Web Portofolio Menggunakan Framework Tailwind
+# Web Portofolio Sederhana Menggunakan Framework Tailwind
 
 ## Referensi
-[Youtube - Web Programming UNPAS]
+Youtube - Web Programming UNPAS
